@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.csv
+*.log
+.env
+*.egg-info/
+*.pkl

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sasidhar/Test1/mlruns/0/a97271a9b3a64517a35799e64fd1aaf5/artifacts
+end_time: 1737361689429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a97271a9b3a64517a35799e64fd1aaf5
+run_name: decision_tree_regressor
+run_uuid: a97271a9b3a64517a35799e64fd1aaf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737361687325
+status: 3
+tags: []
+user_id: sasidhar

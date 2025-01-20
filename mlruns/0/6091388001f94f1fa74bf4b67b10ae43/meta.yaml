@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sasidhar/Test1/mlruns/0/6091388001f94f1fa74bf4b67b10ae43/artifacts
+end_time: 1737361877328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6091388001f94f1fa74bf4b67b10ae43
+run_name: housing_price_prediction_pipeline
+run_uuid: 6091388001f94f1fa74bf4b67b10ae43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737361684721
+status: 3
+tags: []
+user_id: sasidhar
